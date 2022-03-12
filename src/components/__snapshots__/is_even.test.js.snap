@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`isEven 0 1`] = `true`;
+
+exports[`isEven 1 1`] = `false`;
+
+exports[`isEven 2 1`] = `false`;
+
+exports[`isEven 3 1`] = `false`;
+
+exports[`isEven 4 1`] = `true`;
+
+exports[`isEven 5 1`] = `false`;
